@@ -25,6 +25,7 @@ Q: Are certain age groups more inclined to suicide?
 Q: What is the relationship between gender and the number of suicides?
 
 ### You can checkout my work in the Suicide Data Analysis Notebook.
+Link: https://github.com/Muse27/Suicide-Cluster-Data-Aanlysis/blob/main/Suicide%20Data%20Analysis%20Notebook.ipynb
 
 ## Data Visualization
 Data visualization is a field in data analysis that deals with visual representation of data. It graphically plots data and is an effective way to communicate inferences from data. With pictures, maps and graphs, the human mind has an easier time processing and understanding any given data.

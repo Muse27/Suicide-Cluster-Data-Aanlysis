@@ -1,6 +1,7 @@
 # Suicide-Cluster-Data-Aanlysis
 ## Introduction
-![image](https://github.com/Muse27/Suicide-Cluster-Data-Aanlysis/assets/87662180/e5d74f6b-1f4b-4a70-bdeb-4456c4ac363e)
+![suicide cluster](https://github.com/Muse27/Suicide-Cluster-Data-Aanlysis/assets/87662180/41f57865-7980-4b53-8e23-f028f912559d)
+
 
 ## Dataset
 I have used the dataset from kaggle whose Link is: 
